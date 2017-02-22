@@ -1,0 +1,33 @@
+body{
+     font-family:verdana;
+     }
+
+h1 {
+	text-align:center;
+	color:green;
+	}
+table{
+      width:650px; 
+      border-collapse:collapse;
+      margin:auto;}
+.dates{
+       background-color:yellow;
+       border:5px soild black;
+       border-width:5px;
+       border-style:solid;
+       border-color:black;
+   }
+.red{
+     color:red;
+     }
+  
+.blue{
+      color:blue;
+      }
+ td{ 
+     border-width:5px;
+     border-style:dotted;
+     border-color:blue;
+     }       
+
+    
